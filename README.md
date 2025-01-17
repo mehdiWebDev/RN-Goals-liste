@@ -1,1 +1,1 @@
-TO run the projet use : npm start
+To run the projet use : npm start
